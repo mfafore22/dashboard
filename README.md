@@ -4,13 +4,13 @@ This is a modern dashboard application built with Next.js 15, featuring a comple
 
 ## Features
 
-- 🔐 Authentication with NextAuth.js
-- 📊 Dashboard overview with revenue analytics
-- 💼 Customer management
-- 📋 Invoice creation and management
-- 🎨 Modern UI with Tailwind CSS
-- 🔍 Search functionality
-- 📱 Fully responsive design
+-  Authentication with NextAuth.js
+-  Dashboard overview with revenue analytics
+-  Customer management
+-  Invoice creation and management
+-  Modern UI with Tailwind CSS
+-  Search functionality
+-  Fully responsive design
 
 ## Tech Stack
 
